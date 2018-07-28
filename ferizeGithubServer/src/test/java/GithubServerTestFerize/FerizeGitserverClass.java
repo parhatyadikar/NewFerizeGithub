@@ -7,8 +7,12 @@ public class FerizeGitserverClass {
 		System.out.println("I add the child branch on local repo");
 		System.out.println("I add the child branch on local same as remote server");
 		System.out.println("I am learning merge on local ");
-		// Anvar's code
+		// Anvar'
 		System.out.println("Hello world!!!");
+		System.out.println("Hello world!!!");
+		System.out.println("Hello world!!!");
+		System.out.println("Hello world!!!");
+		
 
 
 	}
